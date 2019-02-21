@@ -1,0 +1,13 @@
+.joke {
+    background: orange;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    min-height: 250px;
+    height: 100%;
+    border-radius: 30px;
+}
+
+.joke h1 {
+    margin: 0;
+}
